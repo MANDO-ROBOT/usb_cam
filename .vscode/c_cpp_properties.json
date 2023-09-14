@@ -1,0 +1,23 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/opt/ros/noetic/include/**",
+        "/home/mando/workspace/uvc_ws/src/camera_umd/jpeg_streamer/include/**",
+        "/home/mando/workspace/usb_cam_ws/src/usb_cam/include/**",
+        "/home/mando/workspace/uvc_ws/src/camera_umd/uvc_camera/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
